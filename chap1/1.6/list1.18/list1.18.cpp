@@ -9,4 +9,5 @@ int main()
     std::cout << "array[2] = " << array[2] << std::endl;
     std::cout << "array[3] = " << array[3] << std::endl;
     std::cout << "array[4] = " << array[4] << std::endl;
+    
 }
